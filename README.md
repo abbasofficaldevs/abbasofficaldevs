@@ -25,7 +25,7 @@
 
 ```text
 🇮🇳 From India
-🎂 Age: 20
+🎂 Age: 16
 💡 Passion: Reverse Engineering, API Development, Building Tools & Websites
 🔥 Languages: PHP, JavaScript, Python, HTML, CSS
 ⚡ Motto: Break it, understand it, rebuild it better.
