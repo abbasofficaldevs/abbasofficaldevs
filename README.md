@@ -1,12 +1,12 @@
 <div align="center">
   
-  <!-- Animated gradient header with corrected name -->
+  <!-- Animated gradient header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=ABBAS%20DEVS&fontSize=55&fontColor=white&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Reverse%20Engineer%20%7C%20API%20Builder&descAlignY=55&descSize=18" width="100%"/>
   
-  <!-- Typing animation (no name needed here) -->
+  <!-- Typing animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3500&pause=500&color=FF44CC&center=true&vCenter=true&width=800&lines=🔧+Reverse+Engineer;⚙️+API+Builder;🌐+Full+Stack+Developer;🤖+Tool+Creator;🚀+Always+building" alt="Typing SVG" />
   
-  <!-- Glowing badges -->
+  <!-- Tech badges -->
   <p>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
     <img src="https://img.shields.io/badge/JavaScript-FFE100?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -38,9 +38,9 @@
 <div align="center">
 
 Category Tools
-Languages https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white
-Frameworks https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white
-Tools https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white
+Languages <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+Frameworks <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask" /> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+Tools <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 
 </div>
 
@@ -82,3 +82,4 @@ Tools https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=whi
   <br />
   <b>⭐ Star my repos if you like my work – Let's build something awesome! ⭐</b>
 </div>
+
